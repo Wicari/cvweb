@@ -1,0 +1,11 @@
+baseURL = 'http://cv.wicsworld.com/'
+languageCode = 'en-us'
+title = 'Cosmic Vomit'
+
+theme = 'hugo-theme-relearn'
+
+# For search functionality
+[outputs]
+home = [ "HTML", "RSS", "SEARCH"]
+
+
